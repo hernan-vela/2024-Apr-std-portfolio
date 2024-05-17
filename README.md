@@ -13,3 +13,11 @@ The header component has a logo and name of the company along with the navigatio
 
 ### Footer
 The footer component has social meida links and the information of the company sucah as contact number and the address.
+
+## Pages
+
+## # Home
+The home page displays an image and just some random text for now.
+
+## Services
+The services page shows the services porvided by the company with an image and the title of the service.
