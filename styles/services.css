@@ -1,18 +1,19 @@
 main {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 32px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  justify-content: center;
 }
-
 article {
-    background-color: var(--secondary-color);
-    border-radius: 16px;
-    overflow: hidden;
-    text-align: center;
-    margin: 20px 0;
+  background-color: var(--secondary-color);
+  border-radius: 16px;
+  overflow: hidden;
+  text-align: center;
+  margin: 16px 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
 .services-image {
-    width: 400px;
+  width: 400px;
 }
