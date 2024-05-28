@@ -13,6 +13,7 @@ body {
 }
 
 header {
+  /* MAKE HEADER GOES FROM SIDE TO SIDE */
   background-color: var(--primary-color);
   text-align: center;
   padding: 16px;
